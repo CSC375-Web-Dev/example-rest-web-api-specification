@@ -1,0 +1,35 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    border: none;
+    width: 700px;
+}
+
+th {
+    text-align: left;
+    padding-right: 10px;
+    border: 1px solid black;
+    padding: 8px;
+}
+
+td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.separator {
+    background: black;
+    height: 2px;
+    margin-right: 8px;
+    margin-top: 20px;
+}
